@@ -8,7 +8,5 @@ public class average {
             int Avg=(A+B+C)/3;
             System.out.println(Avg);
         }
-
-    }
-    
+    }    
 }
